@@ -1,7 +1,7 @@
 module.exports = {
     name: "Better Send Message with text",
 
-    description: "Sends a message with built in text block.",
+    description: "Sends a message with built in text block.\nThis was modified to add the ability to type text directly into the block, and allow 4x placeholders (i.e. ${text1}, ${text2}, etc..)",
 
     category: ".MOD",
 
