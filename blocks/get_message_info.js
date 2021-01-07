@@ -1,7 +1,7 @@
 module.exports = {
     name: "Get Message Info",
 
-    description: "Gets the message information.",
+    description: "Gets the message information.\nThis was modified to add 'Number Of Arguemnts' Option",
 
     category: "Message Stuff",
 
@@ -69,7 +69,7 @@ module.exports = {
                 33: "Message Activity Type [Text]",
                 34: "Message Discord Application [Application]",
                 35: "Message Flag [Text]",
-                36: "Number Of Arguemnts"
+                36: "Number Of Arguemnts [Number]"
             }
         }
     ],
