@@ -1,7 +1,7 @@
 module.exports = {
     name: "Get Server Info",
 
-    description: "Gets the server information.",
+    description: "Gets the server information.\nThis was modified to add 'Server (text+voice)Channel Count', 'Server Text Channel Count', 'Server Voice Channel Count', and 'Server Category Count'"
 
     category: "Server Stuff",
 
