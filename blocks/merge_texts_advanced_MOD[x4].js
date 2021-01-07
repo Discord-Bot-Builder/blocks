@@ -1,7 +1,7 @@
 module.exports = {
     name: "Merge Texts (Advanced) MOD",
 
-    description: "Merges multiple texts into a single text.",
+    description: "Merges multiple texts into a single text.\nThis was modified to allow 4x inputs",
 
     category: "Extras",
 
