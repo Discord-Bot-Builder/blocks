@@ -1,7 +1,7 @@
 module.exports = {
     name: "Generate Random Number",
 
-    description: "Generates a random number.",
+    description: "Generates a random number.\nModified to actually take into account of the min and max values supplied.",
 
     category: "Extras",
 
