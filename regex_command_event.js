@@ -151,7 +151,7 @@ module.exports = {
         const slowmodeData = Data.getData("slowmode", fileName, "block");
 
         if(slowmodeData && DBB.Core.typeof(slowmodeData) == "object") {
-            for (const commandName in slowmodeData) {
+            for (const commandName of Object.keys(slowmodeData)) {
                 const userIDs = slowmodeData[commandName];
 
                 for (const userID in userIDs) {
