@@ -18,7 +18,7 @@ module.exports = {
         {
             "id": "custom_prefix",
             "name": "Regex Expression",
-            "description": "Acceptable Types: Text, Unspecified\n\nDescription: Expression Example: i (case isensitive) g (global) (Default: ig)",
+            "description": "Acceptable Types: Text, Unspecified\n\nDescription: Expression Example: i (isensitive) g (global) (Default: ig)",
             "types": ["text", "unspecified"]
         },
         {
